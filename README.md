@@ -25,3 +25,4 @@ The project will analyze interesting findings from the datasets, including visua
 ## Conclusion
 The research questions addressed in this project involve reproducing the ANI-NNP model using the ANI1 dataset to accurately predict total energy. A survey of related work will be provided, highlighting the use of the trainer class method for training the model. Additional datasets gathered to support the analysis are not mentioned. The methodology used in the project includes data processing and trainer class calculations to determine loss per molecule. The modeling process involves inference or prediction methods, feature engineering, and cross-validation. No regularization is mentioned, and cross-validation will be used to aggregate losses per molecule.
 
+Full Referenced Paper: https://arxiv.org/pdf/1610.08935.pdf
